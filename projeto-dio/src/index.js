@@ -12,6 +12,7 @@ const player2 = {
     MANOBRABILIDADE: 4,
     PODER: 4,
     PONTOS: 0,
+    // teste 
 }
 // const player3 = {
 //     NOME: "Peach",
